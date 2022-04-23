@@ -1,7 +1,9 @@
 # DeepLearning.AI TensorFlow Developer
 
-This repository is a documentation for all of my assignment code, including the raw code for the professional certification "DeepLearning.AI TensorFlow Developer" on Coursera
+This repository is a documentation for all of my assignment code, including some of the raw codes for the professional certification "DeepLearning.AI TensorFlow Developer" on Coursera
 *(Code only, no quizzes)*
+
+You can also find the raw (unedited) code on this [*source*](https://github.com/https-deeplearning-ai/tensorflow-1-public)
 
 #### Proof of my certification [here](https://coursera.org/share/40e47757ff88f9b7c54866de5274f591)
 
